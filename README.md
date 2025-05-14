@@ -21,6 +21,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/Perovsky.png" alt="TryHackMe Badge"/>
 
 ![Perovsky56's Stats](https://github-readme-stats.vercel.app/api?username=Perovsky56&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![Perovsky56's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Perovsky56&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
