@@ -1,16 +1,32 @@
-## Hi there 👋
+## `Accessing Profile...`
 
-<!--
-**Perovsky56/Perovsky56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+███████▌ Hello, my name is **[REDACTED]**  
+███████▌ Alias: Perovsky  
+███████▌ Classification: Unknown  
+███████▌ Status: Active  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Domain Alignment
+
+- 🧠 Machine Learning / Deep Learning
+- 💻 Code Engineering  
+- 🛡️ Cybersecurity  
+
+---
+
+### Field Validation
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Perovsky.png" alt="TryHackMe Badge"/>
+
+---
+
+### Contact
+
+> Secure channel:  
+> 📧 [Discord](http://discordapp.com/users/186808872982413314)
+
+---
+
+`> End of Transmission.`
