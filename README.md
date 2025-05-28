@@ -21,7 +21,7 @@
 
 ### Field Validation
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Perovsky.png" alt="TryHackMe Badge"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Perovsky.png" alt="Your Image Badge" />
 
 ---
 
