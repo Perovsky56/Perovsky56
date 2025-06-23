@@ -1,6 +1,6 @@
 ## `Accessing Profile...`
 
-███████▌ Hello, my name is **[REDACTED]**  
+███████▌ Hello, my name is Paweł **[REDACTED]**  
 ███████▌ Alias: Perovsky  
 ███████▌ Classification: Unknown  
 ███████▌ Status: Active  
